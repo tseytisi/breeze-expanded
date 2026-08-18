@@ -1,0 +1,84 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [7623B8605775394F6561554479315295486E987062C1A578405C1F11F79BC1EC] -->
+    <style type="text/css">
+        .coloursymbol {
+            color: #edfaed;
+            stop-color: currentColor;
+            fill: currentColor;
+        }
+        .coloursymbol-stroke {
+            color: #edfaed;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .body-light {
+            color: #53da8a;
+            stop-color: currentColor;
+        }
+        .body-dark {
+            color: #33d374;
+            stop-color: currentColor;
+        }
+        .symbolic {
+            color: #33d374;
+            fill: currentColor;
+        }
+        .symbolic-stroke {
+            color: #33d374;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .highlight {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .4;
+            stop-opacity: .4;
+            fill: currentColor;
+        }
+        .shadow {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .25;
+            stop-opacity: .25;
+            fill: currentColor;
+        }
+    </style>
+    <g>
+        <defs>
+            <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="coloursymbol" stop-opacity="0.9" />
+                <stop offset="1" class="coloursymbol" />
+            </linearGradient>
+            <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient32)" d="M 5 2 H 20 L 27 9 V 30 H 5 Z" />
+        <rect class="highlight" x="5" y="2" width="15" height="1" />
+        <rect class="shadow" x="5" y="29" width="22" height="1" />
+        <g>
+            <path fill="url(#flap-gradient32)" d="M 27 9 l -7 -7 v 7 z" />
+            <path opacity=".15" fill="url(#flap-shadow32)" d="M 20 9 l 7 7 v -7 z"/>
+        </g>
+        <!-- 12x12 -->
+        <g transform="translate(10 11)">
+            <path class="coloursymbol-stroke" d="
+                M 3 2.5 h -2.5 v 7 h 2.5
+            " />
+            <circle cx="4" cy="6" r="2" class="coloursymbol" />
+            <path class="coloursymbol" d="
+                M 6.5 6 l 3.5 -2 v 4 z
+            " />
+            <path class="coloursymbol-stroke" d="
+                M 9 2.5 h 2.5 v 7 h -2.5
+            " />
+        </g>
+    </g>
+</svg>

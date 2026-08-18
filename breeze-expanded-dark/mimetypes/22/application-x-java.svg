@@ -1,0 +1,71 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [189A73518C7F41A05206CA207A466CB60CC55BD9640291630944948653FA5641] -->
+    <style type="text/css">
+        .coloursymbol {
+            color: #5b3b1e;
+            stop-color: currentColor;
+            fill: currentColor;
+        }
+        .coloursymbol-stroke {
+            color: #5b3b1e;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .coloursymbol-colour {
+            color: #5e3b1e;
+        }
+        .body-light {
+            color: #ffa24f;
+            stop-color: currentColor;
+        }
+        .body-dark {
+            color: #ff8b23;
+            stop-color: currentColor;
+        }
+        .symbolic {
+            color: #f27935;
+            fill: currentColor;
+        }
+        .symbolic-stroke {
+            color: #f27935;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .highlight {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .3;
+            stop-opacity: .3;
+            fill: currentColor;
+        }
+        .shadow {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .25;
+            stop-opacity: .25;
+            fill: currentColor;
+        }
+        /* This icon is very weird; I tried to match it to text-x-java as close as possible */
+        .flap-top {
+            stop-color: #85603e;
+        }
+        .flap-bottom {
+            stop-color: #7e5734;
+        }
+    </style>
+    <g>
+        <!-- Path taken from breeze/mimetypes/22/application-x-java.svg -->
+        <path class="symbolic" d="M 8 3 L 8 7 L 9 7 L 9 3 L 8 3 z M 10 4 L 10 7 L 11 7 L 11 4 L 10 4 z M 6 5 L 6 7 L 7 7 L 7 5 L 6 5 z M 12 5 L 12 7 L 13 7 L 13 5 L 12 5 z M 4 6 L 4 7 L 5 7 L 5 6 L 4 6 z M 14 6 L 14 7 L 15 7 L 15 6 L 14 6 z M 3 8 L 3 9 L 3 14 A 4 3.9893909 0 0 0 3 14.009766 A 4 3.9893909 0 0 0 7 18 L 4 18 L 4 19 L 15 19 L 15 18 L 12 18 A 4 3.9893909 0 0 0 16 14.009766 A 4 3.9893909 0 0 0 16 14 L 18 14 C 18.55401 14 19 13.55401 19 13 L 19 10 C 19 9.44599 18.55401 9 18 9 L 16 9 L 16 8 L 3 8 z M 4 9 L 15 9 L 15 10 L 15 13 L 15 14 A 3 3 0 0 1 12 17 L 7 17 A 3 3 0 0 1 4 14 L 4 9 z M 16 10 L 18 10 L 18 13 L 16 13 L 16 10 z " />
+        <circle class="symbolic-stroke" r="2" cx="9.5" cy="13" />
+        <g class="symbolic">
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(30 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(90 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(150 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(210 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(270 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+            <rect width="1.5" height="1.25" x="9.5" y="13" rx=".2" ry=".2" transform="rotate(330 9.5 13) translate(-.75 -1) translate(0 -2.25)" />
+        </g>
+    </g>
+</svg>

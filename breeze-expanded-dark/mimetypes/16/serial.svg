@@ -1,0 +1,46 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [57CB16E19DAA88118B8E05B98CF0A903ACEBDAF24173F7D189068B3507C7501F] -->
+    <style type="text/css">
+        .coloursymbol {
+            color: #d7d7d7;
+            stop-color: currentColor;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .body-light {
+            color: #6e6e6e;
+            stop-color: currentColor;
+        }
+        .body-dark {
+            color: #555555;
+            stop-color: currentColor;
+        }
+        .symbolic {
+            color: #6c7a89; 
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .highlight {
+            color: #a8a8a8;
+            stop-color: #a8a8a8;
+            fill: currentColor;
+        }
+        .shadow {
+            color: #373737;
+            stop-color: #373737;
+            fill: currentColor;
+        }
+    </style>
+    <g>
+        <!-- 2px margins -> 12x12 -->
+        <path
+            transform="translate(2.5 1.5)"
+            class="symbolic"
+            d="M-.5 5 h1.5v-3h3v3h3v-3h3v3h1.5
+             M-.5 8 h1.5v3h3v-3h3v3h3v-3h1.5
+             "
+            />
+    </g>
+</svg>

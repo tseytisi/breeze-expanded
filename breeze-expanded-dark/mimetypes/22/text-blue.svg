@@ -1,0 +1,47 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [F3586CBD85B14DEC6D7C18FB9934752B5DAF2FDD0ABDC590A5C4902EC90B9826] -->
+    <style type="text/css">
+        .top-bar {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .4;
+            stop-opacity: .4;
+            fill: currentColor;
+        }
+        .bottom-bar {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .15;
+            stop-opacity: .15;
+            fill: currentColor;
+        }
+        .coloursymbol {
+            color: #c1cae7;
+            stop-color: #c1cae7;
+            fill: currentColor;
+        }
+        .body-light {
+            color: #3f5aa9;
+            stop-color: #3f5aa9;
+        }
+        .body-dark {
+            color: #3a539b;
+            stop-color: #3a539b;
+        }
+        .symbolic {
+            color: #3a539b;
+            stroke: currentColor;
+            fill: none;
+            stroke-width: 1px;
+        }
+    </style>
+    <g>
+        <path class="symbolic" transform="translate(0, -0.5)"
+            d="
+             M 3 4 h 8
+             m -8 4 h 16
+             m -16 4 h 8
+             m -8 3 h 16
+             m -16 4 H 15 " />
+    </g>
+</svg>

@@ -1,0 +1,119 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Colours -->
+    <!-- Symbolic and base gradient (dark):     #3a539b -->
+    <!-- Base gradient (light):                 #3f5aa9 -->
+    <!-- Highlight and flap gradient (dark):    #8d9dcb -->
+    <!-- Foreground and flap gradient (light):  #c1cae7 -->
+    <!-- Shadow:                                #394c83 -->
+    <style type="text/css">
+        .top-bar {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .4;
+            stop-opacity: .4;
+            fill: currentColor;
+        }
+        .bottom-bar {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .15;
+            stop-opacity: .15;
+            fill: currentColor;
+        }
+        .coloursymbol {
+            color: #c1cae7;
+            stop-color: #c1cae7;
+            fill: currentColor;
+        }
+        .body-light {
+            color: #3f5aa9;
+            stop-color: #3f5aa9;
+        }
+        .body-dark {
+            color: #3a539b;
+            stop-color: #3a539b;
+        }
+        .symbolic {
+            color: #3a539b;
+            stroke: currentColor;
+            fill: none;
+            stroke-width: 1px;
+        }
+    </style>
+    <symbol id="icon64" viewBox="0 0 64 64">
+        <defs>
+            <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="top-bar" />
+                <stop offset="1" class="coloursymbol" />
+            </linearGradient>
+            <linearGradient id="flap-shadow" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient)" d="M 10 3 H 40 L 54 17 V 61 H 10 Z" />
+        <rect class="top-bar" x="10" y="3" width="30" height="1" />
+        <rect class="bottom-bar" x="10" y="60" width="44" height="1" />
+        <g>
+            <path fill="url(#flap-gradient)" d="M 54 17 l -14 -14 v 14 z" />
+            <path opacity=".2" fill="url(#flap-shadow)" d="M 40 17 l 14 14 v -14 z"/>
+        </g>
+        <path class="coloursymbol" d="M 21 22 v1h22 v-1zm0 3v1h22v-1zm0 3v1h11v-1zm0 4v1h22v-1zm0 3v1h19v-1zm0 2v1h11v-1zm0 3v1h22v-1zm0 3v1h16v-1z" />
+    </symbol>
+    <symbol id="icon32" viewBox="0 0 32 32">
+        <defs>
+            <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="top-bar" />
+                <stop offset="1" class="coloursymbol" />
+            </linearGradient>
+            <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient32)" d="M 5 2 H 20 L 27 9 V 30 H 5 Z" />
+        <rect class="top-bar" x="5" y="2" width="15" height="1" />
+        <rect class="bottom-bar" x="5" y="29" width="22" height="1" />
+        <g>
+            <path fill="url(#flap-gradient32)" d="M 27 9 l -7 -7 v 7 z" />
+            <path opacity=".2" fill="url(#flap-shadow32)" d="M 20 9 l 7 7 v -7 z"/>
+        </g>
+        <path class="coloursymbol" fill="none" stroke="currentColor" stroke-width="1px" transform="translate(0, 0.5)" 
+            d="
+             M 10 12 H 22
+             M 10 14 H 22
+             M 10 16 H 18
+             M 10 19 H 22
+             M 10 21 H 16
+             "
+            />
+    </symbol>
+    <symbol id="icon22" viewBox="0 0 22 22">
+        <path class="symbolic" transform="translate(0, -0.5)"
+            d="
+             M 3 4 h 8
+             m -8 4 h 16
+             m -16 4 h 8
+             m -8 3 h 16
+             m -16 4 H 15 " />
+    </symbol>
+    <symbol id="icon16" viewBox="0 0 16 16">
+        <path class="symbolic" transform="translate(0, 0.5)"
+            d="
+             M 2 2 h 6
+             m -6 3 h 12
+             m -12 3 h 6
+             m -6 2 h 12
+             m -12 3 h 9
+            " />
+    </symbol>
+    <use href="#icon64" />
+</svg>

@@ -1,0 +1,143 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type="text/css">
+        .coloursymbol {
+            color: #747474;
+            stop-color: currentColor;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .body-light {
+            color: #f1f1f1;
+            stop-color: currentColor;
+        }
+        .body-dark {
+            color: #eeeeee;
+            stop-color: currentColor;
+        }
+        .symbolic {
+            /* Breeze dark */
+            color: #eeeeee;
+            /* Breeze light */
+            /* color: #747474;  */
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .highlight {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .3;
+            stop-opacity: .3;
+            fill: currentColor;
+        }
+        .shadow {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .25;
+            stop-opacity: .25;
+            fill: currentColor;
+        }
+    </style>
+    <symbol id="icon64" viewBox="0 0 64 64">
+        <defs>
+            <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="coloursymbol" stop-opacity="0.9" />
+                <stop offset="1" class="coloursymbol" />
+            </linearGradient>
+            <linearGradient id="flap-shadow" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient)" d="M 10 3 H 40 L 54 17 V 61 H 10 Z" />
+        <rect class="highlight" x="10" y="3" width="30" height="1" />
+        <rect class="shadow" x="10" y="60" width="44" height="1" />
+        <g>
+            <path fill="url(#flap-gradient)" d="M 54 17 l -14 -14 v 14 z" />
+            <path opacity=".15" fill="url(#flap-shadow)" d="M 40 17 l 14 14 v -14 z"/>
+        </g>
+        <!-- 22x22 -->
+        <path class="coloursymbol" transform="translate(20.5 22)"
+            d="
+            M 11.5 5 V 18 M 11.5 5 m -4 4 l 4 -4 l 4 4
+            M 4 0 V 22
+            M 19 0 V 22
+            "
+            />
+    </symbol>
+    <symbol id="icon32" viewBox="0 0 32 32">
+        <defs>
+            <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop class="coloursymbol" stop-opacity="0.9" />
+                <stop offset="1" class="coloursymbol" />
+            </linearGradient>
+            <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient32)" d="M 5 2 H 20 L 27 9 V 30 H 5 Z" />
+        <rect class="highlight" x="5" y="2" width="15" height="1" />
+        <rect class="shadow" x="5" y="29" width="22" height="1" />
+        <g>
+            <path fill="url(#flap-gradient32)" d="M 27 9 l -7 -7 v 7 z" />
+            <path opacity=".15" fill="url(#flap-shadow32)" d="M 20 9 l 7 7 v -7 z"/>
+        </g>
+        <!-- 12x12 -->
+        <path
+            class="coloursymbol" transform="translate(10.5 11)"
+            d="
+            M 5.5 2 V 10 M 5.5 2 m -2.5 2.5 l 2.5 -2.5 l 2.5 2.5
+            M 1 0 V 12
+            M 10 0 V 12
+            "
+            />
+    </symbol>
+    <symbol id="icon22" viewBox="0 0 22 22">
+        <!-- 16x16 -->
+        <path
+            class="symbolic" transform="translate(3.5 3)"
+            d="
+            M 7.5 3 V 14 M 7.5 3 m -3.5 3.5 l 3.5 -3.5 l 3.5 3.5
+            M 1 0 V 16
+            M 14 0 V 16
+            "
+            />
+    </symbol>
+    <symbol id="icon16" viewBox="0 0 16 16">
+        <!-- 12x12 -->
+        <path
+            class="symbolic" transform="translate(2.5 2)"
+            d="
+            M 5.5 2 V 10 M 5.5 2 m -2.5 2.5 l 2.5 -2.5 l 2.5 2.5
+            M 1 0 V 12
+            M 10 0 V 12
+            "
+            />
+    </symbol>
+    <symbol id="grid">
+        <path
+            stroke="#777777" stroke-width="0.05px"
+            d="M 1 0 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64"
+            />
+        <path
+            stroke="#777777" stroke-width="0.05px"
+            d="M 0 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64"
+            />
+    </symbol>
+    <!-- <rect title="background" x="0" y="0" width="64" height="64" fill="#000000" /> -->
+    <use href="#icon64" />
+    <!-- <use href="#icon32" /> -->
+    <!-- <use href="#icon22" /> -->
+    <!-- <use href="#icon16" /> -->
+    <!-- <use href="#grid" /> -->
+</svg>

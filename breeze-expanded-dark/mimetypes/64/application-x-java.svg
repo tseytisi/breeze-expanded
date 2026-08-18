@@ -1,0 +1,104 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [189A73518C7F41A05206CA207A466CB60CC55BD9640291630944948653FA5641] -->
+    <style type="text/css">
+        .coloursymbol {
+            color: #5b3b1e;
+            stop-color: currentColor;
+            fill: currentColor;
+        }
+        .coloursymbol-stroke {
+            color: #5b3b1e;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .coloursymbol-colour {
+            color: #5e3b1e;
+        }
+        .body-light {
+            color: #ffa24f;
+            stop-color: currentColor;
+        }
+        .body-dark {
+            color: #ff8b23;
+            stop-color: currentColor;
+        }
+        .symbolic {
+            color: #f27935;
+            fill: currentColor;
+        }
+        .symbolic-stroke {
+            color: #f27935;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 1px;
+        }
+        .highlight {
+            color: #ffffff;
+            stop-color: #ffffff;
+            opacity: .3;
+            stop-opacity: .3;
+            fill: currentColor;
+        }
+        .shadow {
+            color: #000000;
+            stop-color: #000000;
+            opacity: .25;
+            stop-opacity: .25;
+            fill: currentColor;
+        }
+        /* This icon is very weird; I tried to match it to text-x-java as close as possible */
+        .flap-top {
+            stop-color: #85603e;
+        }
+        .flap-bottom {
+            stop-color: #7e5734;
+        }
+    </style>
+    <g>
+        <defs>
+            <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="body-light" />
+                <stop offset="1" class="body-dark" />
+            </linearGradient>
+            <linearGradient id="flap-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop class="flap-top" />
+                <stop offset="1" class="flap-bottom" />
+            </linearGradient>
+            <linearGradient id="flap-shadow" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000" stop-opacity="0.8"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient)" d="M 10 3 H 40 L 54 17 V 61 H 10 Z" />
+        <rect class="highlight" x="10" y="3" width="30" height="1" />
+        <rect class="shadow" x="10" y="60" width="44" height="1" />
+        <g>
+            <path fill="url(#flap-gradient)" d="M 54 17 l -14 -14 v 14 z" />
+            <path opacity=".2" fill="url(#flap-shadow)" d="M 40 17 l 14 14 v -14 z"/>
+        </g>
+
+        <!-- Cup without the lines above -->
+        <!-- <g> -->
+            <!-- Path partially taken from breeze/mimetypes/64/application-x-java.svg -->
+            <!-- Further edited manually -->
+            <!-- <path class="coloursymbol" d=" -->
+            <!-- M 23 30 v7c0 3.324 2.676 6 6 6h-5v1h14v-1h-5c2.621 0 4.831-1.667 5.652-4h1.848c1.385 0 2.5-1.115 2.5-2.5v-2c0-1.385-1.115-2.5-2.5-2.5h-1.5v-2z -->
+            <!-- m1 1h14v6c0 2.77-2.23 5-5 5h-4c-2.77 0-5-2.23-5-5z -->
+            <!-- m15 2h1.672c.736 0 1.328.592 1.328 1.328v2.344c0 .736-.592 1.328-1.328 1.328h-1.762c.054-.326.09-.658.09-1z"/> -->
+        <!-- </g> -->
+
+        <!-- Path taken from breeze/mimetypes/64/application-x-java.svg -->
+        <path  class="coloursymbol" d="M 30 22 v6h1v-6zm4 2v3h1v-3zm-8 1v4h1v-4zm-3 5v7c0 3.324 2.676 6 6 6h-5v1h14v-1h-5c2.621 0 4.831-1.667 5.652-4h1.848c1.385 0 2.5-1.115 2.5-2.5v-2c0-1.385-1.115-2.5-2.5-2.5h-1.5v-2zm1 1h14v6c0 2.77-2.23 5-5 5h-4c-2.77 0-5-2.23-5-5zm15 2h1.672c.736 0 1.328.592 1.328 1.328v2.344c0 .736-.592 1.328-1.328 1.328h-1.762c.054-.326.09-.658.09-1z"/>
+
+        <circle cx="31" cy="36.5" r="2.5" class="coloursymbol-colour" stroke="currentColor" stroke-width="2px" fill="none" />
+        <g class="coloursymbol">
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(30 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(90 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(150 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(210 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(270 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+            <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(330 31 36.5) translate(-1 -2) translate(0 -2.5)" />
+        </g>
+    </g>
+</svg>
