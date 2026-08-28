@@ -1,0 +1,22 @@
+    <symbol id="grid">
+        <path
+            stroke="#777777" stroke-width="0.05px"
+            d="M 1 0 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64"
+            />
+        <path
+            stroke="#777777" stroke-width="0.05px"
+            d="M 0 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64"
+            />
+    </symbol>
+    <symbol id="border64">
+        <rect stroke="#ff00ff" fill="none" stroke-width="1px" x="21" y="22" width="23" height="23" transform="translate(-.5 -.5)" />
+    </symbol>
+    <symbol id="border32">
+        <rect stroke="#ff00ff" fill="none" stroke-width="1px" x="10" y="11" width="13" height="13" transform="translate(-.5 -.5)" />
+    </symbol>
+    <symbol id="border22" viewBox="0 0 22 22">
+        <rect stroke="#ff00ff" fill="none" stroke-width="1px" x="3" y="3" width="17" height="17" transform="translate(-.5 -.5)" />
+    </symbol>
+    <symbol id="border16">
+        <rect stroke="#ff00ff" fill="none" stroke-width="1px" x="2" y="2" width="13" height="13" transform="translate(-.5 -.5)" />
+    </symbol>

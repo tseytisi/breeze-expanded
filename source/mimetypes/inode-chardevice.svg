@@ -136,16 +136,7 @@
             "
         />
     </symbol>
-    <symbol id="grid">
-        <path
-            stroke="#777777" stroke-width="0.05px"
-            d="M 1 0 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64 m 1 -64 V 64"
-            />
-        <path
-            stroke="#777777" stroke-width="0.05px"
-            d="M 0 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64 m -64 1 H 64"
-            />
-    </symbol>
+    <!-- #include /common.xml -->
     <!-- <rect title="background" x="0" y="0" width="64" height="64" fill="#000000" /> -->
     <use href="#icon64" />
     <!-- <use href="#icon32" /> -->
