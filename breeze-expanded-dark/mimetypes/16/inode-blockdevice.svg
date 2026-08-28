@@ -1,44 +1,8 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [B056EBCB2CC9B57C475E7FE605AB8FA221979C5E8706B2B682C59C00E6F5FA55] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #747474;
-            stop-color: currentColor;
-            fill: currentColor;
-        }
-        .body-light {
-            color: #f1f1f1;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #eeeeee;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: currentColor;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [B056EBCB2CC9B57C475E7FE605AB8FA221979C5E8706B2B682C59C00E6F5FA55] -->
     <g>
         <!-- 12x12 -->
-        <g class="symbolic" transform="translate(2 2)">
+        <g color="#eeeeee" fill="#eeeeee" transform="translate(2 2)">
             <rect x="0" y="0" width="5" height="5" />
             <rect x="6" y="0" width="5" height="5" />
             <rect x="0" y="6" width="5" height="5" />

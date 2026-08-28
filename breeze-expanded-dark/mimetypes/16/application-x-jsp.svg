@@ -1,61 +1,16 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:17:55 | Source file hash: [6AD4E786F439DE6FF56552F4B34AA1CCFE4982C1790CEC38144A4C653C39D1DB] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #5f4024;
-            stop-color: currentColor;
-            fill: currentColor;
-        }
-        .coloursymbol-stroke {
-            color: #5f4024;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .body-light {
-            color: #ffa24f;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #ff8b23;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            color: #f27935;
-            fill: currentColor;
-        }
-        .symbolic-stroke {
-            color: #f27935;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [6AD4E786F439DE6FF56552F4B34AA1CCFE4982C1790CEC38144A4C653C39D1DB] -->
     <g>
         <!-- 12x12 -->
         <g transform="translate(2 2)">
-            <path class="symbolic-stroke" d="
+            <path stroke-width="1px" color="#f27935" fill="none" stroke="#f27935" d="
                 M 3.5 2.5 l -3.5 3.5 l 3.5 3.5
             " />
-            <path class="symbolic" d="
+            <path color="#f27935" fill="#f27935" d="
                 M 10.911 2 l -5 8 h 1.179 l 5 -8 z
             " />
-            <ellipse class="symbolic-stroke" cx="7.25" cy="3.5" rx="1" ry="1" />
-            <ellipse class="symbolic-stroke" cx="10.75" cy="8.5" rx="1" ry="1" />
+            <ellipse stroke-width="1px" color="#f27935" fill="none" stroke="#f27935" cx="7.25" cy="3.5" rx="1" ry="1" />
+            <ellipse stroke-width="1px" color="#f27935" fill="none" stroke="#f27935" cx="10.75" cy="8.5" rx="1" ry="1" />
         </g>
     </g>
 </svg>

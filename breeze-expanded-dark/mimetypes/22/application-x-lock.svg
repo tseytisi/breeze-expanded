@@ -1,62 +1,10 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [831B28CB081F842A9590074F81FB97EE020571DD67B8394C218A0AC32DCBA456] -->
-    <style type="text/css">
-        .coloursymbol-fill {
-            color: #787878;
-            stop-color: currentColor;
-            fill: currentColor;
-        }
-        .coloursymbol-stroke {
-            color: #787878;
-            stop-color: currentColor;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .body-light {
-            color: #d6d6d6;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #cccccc;
-            stop-color: currentColor;
-        }
-        .symbolic-fill {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: currentColor;
-        }
-        .symbolic-stroke {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: currentColor;
-            opacity: .4;
-            stop-opacity: .4;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: currentColor;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [831B28CB081F842A9590074F81FB97EE020571DD67B8394C218A0AC32DCBA456] -->
     <g>
         <!-- 16x16 -->
         <g class="symbolic" transform="translate(3 3)">
-            <rect class="symbolic-fill" x="1" y="8" width="14" height="8" />
-            <path class="symbolic-stroke" d="
+            <rect color="#eeeeee" fill="#eeeeee" x="1" y="8" width="14" height="8" />
+            <path stroke-width="1px" color="#eeeeee" fill="none" stroke="#eeeeee" d="
                 M 4.5 8 v -4
                 q 0 -3.5 3.5 -3.5
                 q 3.5 0 3.5 3.5

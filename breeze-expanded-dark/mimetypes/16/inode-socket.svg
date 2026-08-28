@@ -1,48 +1,8 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [E530A6D880E014853620009BCDF7C76C1B15484D599E8BCD6C8A8FB9BEFE26C8] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #747474;
-            stop-color: currentColor;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .body-light {
-            color: #f1f1f1;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #eeeeee;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [E530A6D880E014853620009BCDF7C76C1B15484D599E8BCD6C8A8FB9BEFE26C8] -->
     <g>
         <!-- 12x12 -->
-        <path class="symbolic" transform="translate(2 2)"
+        <path stroke-width="1px" color="#eeeeee" fill="none" stroke="#eeeeee" transform="translate(2 2)"
             d="
             M 6 0 v 4.5
             M 0.5 9 v-4.5 H11.5 v4.5

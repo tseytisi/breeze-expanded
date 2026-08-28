@@ -1,69 +1,14 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [189A73518C7F41A05206CA207A466CB60CC55BD9640291630944948653FA5641] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #5b3b1e;
-            stop-color: currentColor;
-            fill: currentColor;
-        }
-        .coloursymbol-stroke {
-            color: #5b3b1e;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .coloursymbol-colour {
-            color: #5e3b1e;
-        }
-        .body-light {
-            color: #ffa24f;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #ff8b23;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            color: #f27935;
-            fill: currentColor;
-        }
-        .symbolic-stroke {
-            color: #f27935;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-        /* This icon is very weird; I tried to match it to text-x-java as close as possible */
-        .flap-top {
-            stop-color: #85603e;
-        }
-        .flap-bottom {
-            stop-color: #7e5734;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [2D1194553D9D41F1A4ECB24E68E26B9A7C72EC07842ACCF930D08DADF498B845] -->
     <g>
         <!-- Path taken from breeze/mimetypes/16/application-x-java.svg -->
-        <path class="symbolic" d="m7 2v3h1v-3zm-2 1v2h1v-2zm4 0v2h1v-2zm-6 1v1h1v-1zm-1 2v4c0 1.813 1.01 3 3 3h-2v1h8v-1h-2c1.572 0 2.507-.727 3-2h1c1 0 1-.003 1-1.094v-1.094c0-1.818 0-1.813-1-1.813h-1v-1zm1 1h8v3c0 1.511-1.338 2-3 2h-2c-1.662 0-3-.489-3-2zm9 1h1v2h-1z"/>
-        <circle class="symbolic-stroke" r="1" cx="7" cy="9.5" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(30 7 9.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(90 7 9.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(150 7 9.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(210 7 9.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(270 7 9.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="symbolic" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(330 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <path color="#f27935" fill="#f27935" d="m7 2v3h1v-3zm-2 1v2h1v-2zm4 0v2h1v-2zm-6 1v1h1v-1zm-1 2v4c0 1.813 1.01 3 3 3h-2v1h8v-1h-2c1.572 0 2.507-.727 3-2h1c1 0 1-.003 1-1.094v-1.094c0-1.818 0-1.813-1-1.813h-1v-1zm1 1h8v3c0 1.511-1.338 2-3 2h-2c-1.662 0-3-.489-3-2zm9 1h1v2h-1z"/>
+        <circle stroke-width="1px" color="#f27935" fill="none" stroke="#f27935" r="1" cx="7" cy="9.5" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(30 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(90 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(150 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(210 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(270 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#f27935" fill="#f27935" width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(330 7 9.5) translate(-.5 -1) translate(0 -1)" />
     </g>
 </svg>

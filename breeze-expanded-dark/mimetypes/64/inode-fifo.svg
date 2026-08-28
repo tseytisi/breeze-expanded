@@ -1,54 +1,14 @@
 <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [1BF295657FE5EE2167A995504CA6F8130721929A422A5621FBB9B6E4FD8438CF] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #747474;
-            stop-color: currentColor;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .body-light {
-            color: #f1f1f1;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #eeeeee;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [1BF295657FE5EE2167A995504CA6F8130721929A422A5621FBB9B6E4FD8438CF] -->
     <g>
         <defs>
             <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
-                <stop class="body-light" />
-                <stop offset="1" class="body-dark" />
+                <stop color="#f1f1f1" stop-color="#f1f1f1" />
+                <stop offset="1" color="#eeeeee" stop-color="#eeeeee" />
             </linearGradient>
             <linearGradient id="flap-gradient" x1="0" x2="0" y1="0" y2="1">
-                <stop class="coloursymbol" stop-opacity="0.9" />
-                <stop offset="1" class="coloursymbol" />
+                <stop stroke-width="1px" color="#747474" fill="none" stop-color="#747474" stroke="#747474" stop-opacity="0.9" />
+                <stop offset="1" stroke-width="1px" color="#747474" fill="none" stop-color="#747474" stroke="#747474" />
             </linearGradient>
             <linearGradient id="flap-shadow" x1="0" x2="1" y1="0" y2="0">
                 <stop stop-color="#000000"/>
@@ -56,14 +16,14 @@
             </linearGradient>
         </defs>
         <path fill="url(#body-gradient)" d="M 10 3 H 40 L 54 17 V 61 H 10 Z" />
-        <rect class="highlight" x="10" y="3" width="30" height="1" />
-        <rect class="shadow" x="10" y="60" width="44" height="1" />
+        <rect stop-opacity=".3" color="#ffffff" opacity=".3" fill="#ffffff" stop-color="#ffffff" x="10" y="3" width="30" height="1" />
+        <rect stop-opacity=".25" color="#000000" opacity=".25" fill="#000000" stop-color="#000000" x="10" y="60" width="44" height="1" />
         <g>
             <path fill="url(#flap-gradient)" d="M 54 17 l -14 -14 v 14 z" />
             <path opacity=".15" fill="url(#flap-shadow)" d="M 40 17 l 14 14 v -14 z"/>
         </g>
         <!-- 22x22 -->
-        <path class="coloursymbol" transform="translate(20.5 22)"
+        <path stroke-width="1px" color="#747474" fill="none" stop-color="#747474" stroke="#747474" transform="translate(20.5 22)"
             d="
             M 11.5 5 V 18 M 11.5 5 m -4 4 l 4 -4 l 4 4
             M 4 0 V 22

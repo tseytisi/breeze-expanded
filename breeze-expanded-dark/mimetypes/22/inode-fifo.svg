@@ -1,49 +1,9 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [1BF295657FE5EE2167A995504CA6F8130721929A422A5621FBB9B6E4FD8438CF] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #747474;
-            stop-color: currentColor;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .body-light {
-            color: #f1f1f1;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #eeeeee;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            /* Breeze dark */
-            color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [1BF295657FE5EE2167A995504CA6F8130721929A422A5621FBB9B6E4FD8438CF] -->
     <g>
         <!-- 16x16 -->
         <path
-            class="symbolic" transform="translate(3.5 3)"
+            stroke-width="1px" color="#eeeeee" fill="none" stroke="#eeeeee" transform="translate(3.5 3)"
             d="
             M 7.5 3 V 14 M 7.5 3 m -3.5 3.5 l 3.5 -3.5 l 3.5 3.5
             M 1 0 V 16

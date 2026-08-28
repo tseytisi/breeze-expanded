@@ -1,69 +1,14 @@
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-19 00:09:57 | Source file hash: [189A73518C7F41A05206CA207A466CB60CC55BD9640291630944948653FA5641] -->
-    <style type="text/css">
-        .coloursymbol {
-            color: #5b3b1e;
-            stop-color: currentColor;
-            fill: currentColor;
-        }
-        .coloursymbol-stroke {
-            color: #5b3b1e;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .coloursymbol-colour {
-            color: #5e3b1e;
-        }
-        .body-light {
-            color: #ffa24f;
-            stop-color: currentColor;
-        }
-        .body-dark {
-            color: #ff8b23;
-            stop-color: currentColor;
-        }
-        .symbolic {
-            color: #f27935;
-            fill: currentColor;
-        }
-        .symbolic-stroke {
-            color: #f27935;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
-        }
-        .highlight {
-            color: #ffffff;
-            stop-color: #ffffff;
-            opacity: .3;
-            stop-opacity: .3;
-            fill: currentColor;
-        }
-        .shadow {
-            color: #000000;
-            stop-color: #000000;
-            opacity: .25;
-            stop-opacity: .25;
-            fill: currentColor;
-        }
-        /* This icon is very weird; I tried to match it to text-x-java as close as possible */
-        .flap-top {
-            stop-color: #85603e;
-        }
-        .flap-bottom {
-            stop-color: #7e5734;
-        }
-    </style>
+    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [2D1194553D9D41F1A4ECB24E68E26B9A7C72EC07842ACCF930D08DADF498B845] -->
     <g>
         <defs>
             <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
-                <stop class="body-light" />
-                <stop offset="1" class="body-dark" />
+                <stop color="#ffa24f" stop-color="#ffa24f" />
+                <stop offset="1" color="#ff8b23" stop-color="#ff8b23" />
             </linearGradient>
             <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
-                <stop class="flap-top" />
-                <stop offset="1" class="flap-bottom" />
+                <stop stop-color="#85603e" />
+                <stop offset="1" stop-color="#7e5734" />
             </linearGradient>
             <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
                 <stop stop-color="#000000" stop-opacity="0.8"/>
@@ -71,20 +16,20 @@
             </linearGradient>
         </defs>
         <path fill="url(#body-gradient32)" d="M 5 2 H 20 L 27 9 V 30 H 5 Z" />
-        <rect class="highlight" x="5" y="2" width="15" height="1" />
-        <rect class="shadow" x="5" y="29" width="22" height="1" />
+        <rect stop-opacity=".3" color="#ffffff" opacity=".3" fill="#ffffff" stop-color="#ffffff" x="5" y="2" width="15" height="1" />
+        <rect stop-opacity=".25" color="#000000" opacity=".25" fill="#000000" stop-color="#000000" x="5" y="29" width="22" height="1" />
         <g>
             <path fill="url(#flap-gradient32)" d="M 27 9 l -7 -7 v 7 z" />
             <path opacity=".2" fill="url(#flap-shadow32)" d="M 20 9 l 7 7 v -7 z"/>
         </g>
         <!-- Path taken from breeze/mimetypes/32/application-x-java.svg -->
-        <path class="coloursymbol" d="M 15 11 v3h1v-3zm-2 1v2h1v-2zm4 0v2h1v-2zm-6 1v1h1v-1zm-1 2v4c0 1.813 1.01 3 3 3h-2v1h8v-1h-2c1.572 0 2.507-.727 3-2h1c1 0 1-.003 1-1.094v-1.094c0-1.818 0-1.813-1-1.813h-1v-1zm1 1h8v3c0 1.511-1.338 2-3 2h-2c-1.662 0-3-.489-3-2zm9 1h1v2h-1z"/>
-        <circle class="coloursymbol-stroke" r="1" cx="15" cy="18.5" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(30 15 18.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(90 15 18.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(150 15 18.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(210 15 18.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(270 15 18.5) translate(-.5 -1) translate(0 -1)" />
-        <rect class="coloursymbol" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(330 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <path color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" d="M 15 11 v3h1v-3zm-2 1v2h1v-2zm4 0v2h1v-2zm-6 1v1h1v-1zm-1 2v4c0 1.813 1.01 3 3 3h-2v1h8v-1h-2c1.572 0 2.507-.727 3-2h1c1 0 1-.003 1-1.094v-1.094c0-1.818 0-1.813-1-1.813h-1v-1zm1 1h8v3c0 1.511-1.338 2-3 2h-2c-1.662 0-3-.489-3-2zm9 1h1v2h-1z"/>
+        <circle stroke-width="1px" color="#5b3b1e" fill="none" stroke="#5b3b1e" r="1" cx="15" cy="18.5" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(30 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(90 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(150 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(210 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(270 15 18.5) translate(-.5 -1) translate(0 -1)" />
+        <rect color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" width="1" height="1" x="15" y="18.5" rx=".1" ry=".1" transform="rotate(330 15 18.5) translate(-.5 -1) translate(0 -1)" />
     </g>
 </svg>
