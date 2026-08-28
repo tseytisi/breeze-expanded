@@ -1,0 +1,13 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [6EBC21565FE83B4E3776FB2996E3F6059754CE3C5614EE0650AB3412055CA046] -->
+    <g>
+        <path stroke-width="1px" color="#733aa7" fill="none" stroke="#733aa7" transform="translate(0, 0.5)"
+            d="
+             M 2 2 h 6
+             m -6 3 h 12
+             m -12 3 h 6
+             m -6 2 h 12
+             m -12 3 h 9
+            " />
+    </g>
+</svg>

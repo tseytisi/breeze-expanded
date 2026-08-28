@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [4CF1D4EFADF8D44419469BB62378256F9B7C0950B280E2F876ACF8208B387129] -->
+    <g>
+        <!-- 12x12 -->
+        <path
+            stroke-width="1px" color="#747474" fill="none" stroke="#747474" transform="translate(2.5 2)"
+            d="
+            M 5.5 2 V 10 M 5.5 2 m -2.5 2.5 l 2.5 -2.5 l 2.5 2.5
+            M 1 0 V 12
+            M 10 0 V 12
+            "
+            />
+    </g>
+</svg>

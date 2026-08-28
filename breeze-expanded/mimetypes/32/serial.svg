@@ -1,0 +1,35 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [57CB16E19DAA88118B8E05B98CF0A903ACEBDAF24173F7D189068B3507C7501F] -->
+    <g>
+        <defs>
+            <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop color="#6e6e6e" stop-color="#6e6e6e" />
+                <stop offset="1" color="#555555" stop-color="#555555" />
+            </linearGradient>
+            <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
+                <stop color="#a8a8a8" fill="#a8a8a8" stop-color="#a8a8a8" />
+                <stop offset="1" stroke-width="1px" color="#d7d7d7" fill="none" stop-color="#d7d7d7" stroke="#d7d7d7" />
+            </linearGradient>
+            <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient32)" d="M 5 2 H 20 L 27 9 V 30 H 5 Z" />
+        <rect color="#a8a8a8" fill="#a8a8a8" stop-color="#a8a8a8" x="5" y="2" width="15" height="1" />
+        <rect color="#373737" fill="#373737" stop-color="#373737" x="5" y="29" width="22" height="1" />
+        <g>
+            <path fill="url(#flap-gradient32)" d="M 27 9 l -7 -7 v 7 z" />
+            <path opacity=".25" fill="url(#flap-shadow32)" d="M 20 9 l 7 7 v -7 z"/>
+        </g>
+        <!-- Icon is 12x12, (vertical is one pixel below centre) -->
+        <!-- Content margin (x) = 5px; content padding (x) = 5px; -->
+        <path
+            transform="translate(10.5 10.5)"
+            stroke-width="1px" color="#d7d7d7" fill="none" stop-color="#d7d7d7" stroke="#d7d7d7"
+            d="M-.5 5 h1.5v-3h3v3h3v-3h3v3h1.5
+             M-.5 8 h1.5v3h3v-3h3v3h3v-3h1.5
+             "
+            />
+    </g>
+</svg>

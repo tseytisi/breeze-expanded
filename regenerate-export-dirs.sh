@@ -1,7 +1,7 @@
 #!/bin/bash
 
 dirs=(
-    #./breeze-expanded
+    ./breeze-expanded
     ./breeze-expanded-dark
 )
 

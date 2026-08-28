@@ -1,0 +1,37 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [6D73A2492555009F9CFF4CD213F7A4975BC3FDF67B5DE5570677C7015A5433BD] -->
+    <g>
+        <defs>
+            <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop color="#d6d6d6" stop-color="#d6d6d6" />
+                <stop offset="1" color="#cccccc" stop-color="#cccccc" />
+            </linearGradient>
+            <linearGradient id="flap-gradient" x1="0" x2="0" y1="0" y2="1">
+                <stop color="#ffffff" opacity=".4" fill="#ffffff" stop-color="#ffffff" stop-opacity="0.9" />
+                <stop offset="1" stop-opacity=".4" color="#ffffff" opacity=".4" fill="#ffffff" stop-color="#ffffff" />
+            </linearGradient>
+            <!-- Diagonal shadow -->
+            <linearGradient id="flap-shadow" x1="0" x2="1" y1="0" y2="1">
+                <stop stop-color="#000000"/>
+                <stop offset="1" stop-opacity="0"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#body-gradient)" d="M 10 3 H 40 L 54 17 V 61 H 10 Z" />
+        <rect stop-opacity=".4" color="#ffffff" opacity=".4" fill="#ffffff" stop-color="#ffffff" x="10" y="3" width="30" height="1" />
+        <rect stop-opacity=".25" color="#000000" opacity=".25" fill="#000000" stop-color="#000000" x="10" y="60" width="44" height="1" />
+        <g>
+            <path fill="url(#flap-gradient)" d="M 54 17 l -14 -14 v 14 z" />
+            <path opacity="0.15" fill="url(#flap-shadow)" d="M 40 17 l 14 14 v -14 z"/>
+        </g>
+        <!-- 22x22 -->
+        <g transform="translate(21 22)">
+            <rect color="#787878" fill="#787878" stop-color="#787878" x="3" y="11" width="16" height="10" />
+            <path stroke-width="1px" color="#787878" fill="none" stop-color="#787878" stroke="#787878" d="
+                M 6.5 12 v -5
+                q 0 -4.5 4.5 -4.5
+                q 4.5 0 4.5 4.5
+                v 5
+            " />
+        </g>
+    </g>
+</svg>

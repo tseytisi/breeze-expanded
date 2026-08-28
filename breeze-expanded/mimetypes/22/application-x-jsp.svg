@@ -1,0 +1,16 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [BFA3EE14D6FF4FE2D20F2FA9A4980C14F525B857E01B94E73B3F0A130FE3CDE2] -->
+    <g>
+        <!-- 16x16 -->
+        <g color="#f27935" transform="translate(3 3)">
+            <path stroke-width="1px" fill="none" color="#f27935" stroke="#f27935" d="
+                M 4.5 3.5 l -4.5 4.5 l 4.5 4.5
+            " />
+            <path fill="#f27935" color="#f27935" d="
+                M 13.917 3 l -6 10 h 1.166 l 6 -10 z
+            " />
+            <ellipse stroke-width="1px" fill="none" color="#f27935" stroke="#f27935" cx="9.25" cy="4.75" rx="1.25" ry="1.25" />
+            <ellipse stroke-width="1px" fill="none" color="#f27935" stroke="#f27935" cx="13.75" cy="11.25" rx="1.25" ry="1.25" />
+        </g>
+    </g>
+</svg>

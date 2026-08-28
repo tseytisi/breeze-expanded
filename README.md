@@ -15,8 +15,6 @@ Included icons, among others:
 ## Installation
 The easiest way to install the theme is to copy or symlink `breeze-expanded(-dark)` to `~/.local/share/icons/` (directory may not exist yet), and then select the theme from the KDE settings menu. The theme will automatically inherit from Breeze (Dark). You can add other Breeze expansion packs to the list to inherit from them first. Just add their directory name to the `Inherits` part of `index.theme`.
 
-(Breeze Light is currently not included yet, though the only differences will be the colour for icon sizes 16 and 22 for a few icons).
-
 You don't need the `source` directory to use the icons. The source directory contains icon files that include all four sizes in a single file. They need to be exported before they can be used. The exporter is also self-made, and is not (yet) released on Github.
 
 ## Preview

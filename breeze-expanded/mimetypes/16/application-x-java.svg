@@ -1,0 +1,16 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [3319E94983E29CB3658F3A65C8A500F2631CF371EC33914CF2D34D4E095EF33B] -->
+    <g>
+        <!-- Path taken from breeze/mimetypes/16/application-x-java.svg -->
+        <path fill="#f27935" color="#f27935" d="m7 2v3h1v-3zm-2 1v2h1v-2zm4 0v2h1v-2zm-6 1v1h1v-1zm-1 2v4c0 1.813 1.01 3 3 3h-2v1h8v-1h-2c1.572 0 2.507-.727 3-2h1c1 0 1-.003 1-1.094v-1.094c0-1.818 0-1.813-1-1.813h-1v-1zm1 1h8v3c0 1.511-1.338 2-3 2h-2c-1.662 0-3-.489-3-2zm9 1h1v2h-1z"/>
+        <circle stroke-width="1px" fill="none" color="#f27935" stroke="#f27935" r="1" cx="7" cy="9.5" />
+        <g fill="#f27935" color="#f27935">
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(30 7 9.5) translate(-.5 -1) translate(0 -1)" />
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(90 7 9.5) translate(-.5 -1) translate(0 -1)" />
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(150 7 9.5) translate(-.5 -1) translate(0 -1)" />
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(210 7 9.5) translate(-.5 -1) translate(0 -1)" />
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(270 7 9.5) translate(-.5 -1) translate(0 -1)" />
+            <rect width="1" height="1" x="7" y="9.5" rx=".1" ry=".1" transform="rotate(330 7 9.5) translate(-.5 -1) translate(0 -1)" />
+        </g>
+    </g>
+</svg>

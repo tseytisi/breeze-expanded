@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [42A3DB5BBE30A5105B5A533E9D5DC75381C53169E1B4A6517AE6E7423DB57521] -->
+    <g>
+        <!-- 12x12 -->
+        <path stroke-width="1px" color="#747474" fill="none" stroke="#747474" transform="translate(2 2)"
+            d="
+            M 6 0 v 4.5
+            M 0.5 9 v-4.5 H11.5 v4.5
+            M 3 7.5 H 9  
+            M 6 7.5 V 12
+            "
+        />
+    </g>
+</svg>

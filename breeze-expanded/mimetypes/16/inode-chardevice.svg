@@ -1,0 +1,16 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Exported on 2026-08-28 20:25:32 | Source file hash: [69524F3CB5FB2CE97B9DC159CD54698F9E4B8EC9E890E6D5B7B4CB4BFA7579BE] -->
+    <g>
+        <!-- 12x12 -->
+        <path stroke-width="1px" color="#747474" fill="none" stroke="#747474" transform="translate(2 2)"
+            d="
+            M .5 .5 H 11.5
+
+            M 2 2 v3 m2-2.5 h2v2h-2z m4-.5v3 m2-3v3
+            M 2 7 v3 m2-3v3 m2-3v3 m2-2.5 h2v2h-2z
+
+            M .5 11.5 H 11.5
+            "
+        />
+    </g>
+</svg>
