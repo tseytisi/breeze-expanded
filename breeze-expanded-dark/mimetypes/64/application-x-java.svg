@@ -1,5 +1,5 @@
 <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [2D1194553D9D41F1A4ECB24E68E26B9A7C72EC07842ACCF930D08DADF498B845] -->
+    <!-- Exported on 2026-08-28 20:21:17 | Source file hash: [3319E94983E29CB3658F3A65C8A500F2631CF371EC33914CF2D34D4E095EF33B] -->
     <g>
         <defs>
             <linearGradient id="body-gradient" x1="0" x2="0" y1="0" y2="1">
@@ -34,10 +34,10 @@
         <!-- </g> -->
 
         <!-- Path taken from breeze/mimetypes/64/application-x-java.svg -->
-        <path color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e" d="M 30 22 v6h1v-6zm4 2v3h1v-3zm-8 1v4h1v-4zm-3 5v7c0 3.324 2.676 6 6 6h-5v1h14v-1h-5c2.621 0 4.831-1.667 5.652-4h1.848c1.385 0 2.5-1.115 2.5-2.5v-2c0-1.385-1.115-2.5-2.5-2.5h-1.5v-2zm1 1h14v6c0 2.77-2.23 5-5 5h-4c-2.77 0-5-2.23-5-5zm15 2h1.672c.736 0 1.328.592 1.328 1.328v2.344c0 .736-.592 1.328-1.328 1.328h-1.762c.054-.326.09-.658.09-1z"/>
+        <path fill="#5b3b1e" color="#5b3b1e" stop-color="#5b3b1e" d="M 30 22 v6h1v-6zm4 2v3h1v-3zm-8 1v4h1v-4zm-3 5v7c0 3.324 2.676 6 6 6h-5v1h14v-1h-5c2.621 0 4.831-1.667 5.652-4h1.848c1.385 0 2.5-1.115 2.5-2.5v-2c0-1.385-1.115-2.5-2.5-2.5h-1.5v-2zm1 1h14v6c0 2.77-2.23 5-5 5h-4c-2.77 0-5-2.23-5-5zm15 2h1.672c.736 0 1.328.592 1.328 1.328v2.344c0 .736-.592 1.328-1.328 1.328h-1.762c.054-.326.09-.658.09-1z"/>
 
-        <circle cx="31" cy="36.5" r="2.5" color="#5e3b1e" stroke="#5e3b1e" stroke-width="2px" fill="none" />
-        <g color="#5b3b1e" fill="#5b3b1e" stop-color="#5b3b1e">
+        <circle cx="31" cy="36.5" r="2.5" color="#5b3b1e" stop-color="#5b3b1e" stroke="#5b3b1e" stroke-width="2px" fill="none" />
+        <g fill="#5b3b1e" color="#5b3b1e" stop-color="#5b3b1e">
             <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(30 31 36.5) translate(-1 -2) translate(0 -2.5)" />
             <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(90 31 36.5) translate(-1 -2) translate(0 -2.5)" />
             <rect width="2" height="1.5" x="31" y="36.5" rx=".3" ry=".5" transform="rotate(150 31 36.5) translate(-1 -2) translate(0 -2.5)" />

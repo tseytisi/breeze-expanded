@@ -1,5 +1,5 @@
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [6AD4E786F439DE6FF56552F4B34AA1CCFE4982C1790CEC38144A4C653C39D1DB] -->
+    <!-- Exported on 2026-08-28 20:21:17 | Source file hash: [BFA3EE14D6FF4FE2D20F2FA9A4980C14F525B857E01B94E73B3F0A130FE3CDE2] -->
     <g>
         <defs>
             <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
@@ -7,8 +7,8 @@
                 <stop offset="1" color="#ff8b23" stop-color="#ff8b23" />
             </linearGradient>
             <linearGradient id="flap-gradient32" x1="0" x2="0" y1="0" y2="1">
-                <stop color="#5f4024" fill="#5f4024" stop-color="#5f4024" stop-opacity="0.9" />
-                <stop offset="1" color="#5f4024" fill="#5f4024" stop-color="#5f4024" />
+                <stop color="#5f4024" stop-color="#5f4024" stop-opacity="0.9" />
+                <stop offset="1" color="#5f4024" stop-color="#5f4024" />
             </linearGradient>
             <linearGradient id="flap-shadow32" x1="0" x2="1" y1="0" y2="0">
                 <stop stop-color="#000000"/>
@@ -24,14 +24,14 @@
         </g>
         <!-- 12x12 -->
         <g transform="translate(10 11)">
-            <path stroke-width="1px" color="#5f4024" fill="none" stroke="#5f4024" d="
+            <path stroke-width="1px" fill="none" color="#5f4024" stroke="#5f4024" stop-color="#5f4024" d="
                 M 3.5 2.5 l -3.5 3.5 l 3.5 3.5
             " />
-            <path color="#5f4024" fill="#5f4024" stop-color="#5f4024" d="
+            <path fill="#5f4024" color="#5f4024" stop-color="#5f4024" d="
                 M 10.911 2 l -5 8 h 1.179 l 5 -8 z
             " />
-            <ellipse stroke-width="1px" color="#5f4024" fill="none" stroke="#5f4024" cx="7.25" cy="3.5" rx="1" ry="1" />
-            <ellipse stroke-width="1px" color="#5f4024" fill="none" stroke="#5f4024" cx="10.75" cy="8.5" rx="1" ry="1" />
+            <ellipse stroke-width="1px" fill="none" color="#5f4024" stroke="#5f4024" stop-color="#5f4024" cx="7.25" cy="3.5" rx="1" ry="1" />
+            <ellipse stroke-width="1px" fill="none" color="#5f4024" stroke="#5f4024" stop-color="#5f4024" cx="10.75" cy="8.5" rx="1" ry="1" />
         </g>
     </g>
 </svg>

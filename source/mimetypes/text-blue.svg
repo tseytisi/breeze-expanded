@@ -8,30 +8,30 @@
     <style type="text/css">
         .top-bar {
             color: #ffffff;
-            stop-color: #ffffff;
+            stop-color: currentColor;
             opacity: .4;
             stop-opacity: .4;
             fill: currentColor;
         }
         .bottom-bar {
             color: #000000;
-            stop-color: #000000;
+            stop-color: currentColor;
             opacity: .15;
             stop-opacity: .15;
             fill: currentColor;
         }
         .coloursymbol {
             color: #c1cae7;
-            stop-color: #c1cae7;
+            stop-color: currentColor;
             fill: currentColor;
         }
         .body-light {
             color: #3f5aa9;
-            stop-color: #3f5aa9;
+            stop-color: currentColor;
         }
         .body-dark {
             color: #3a539b;
-            stop-color: #3a539b;
+            stop-color: currentColor;
         }
         .symbolic {
             color: #3a539b;

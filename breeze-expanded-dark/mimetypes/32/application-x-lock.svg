@@ -1,5 +1,5 @@
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [831B28CB081F842A9590074F81FB97EE020571DD67B8394C218A0AC32DCBA456] -->
+    <!-- Exported on 2026-08-28 20:21:17 | Source file hash: [6D73A2492555009F9CFF4CD213F7A4975BC3FDF67B5DE5570677C7015A5433BD] -->
     <g>
         <defs>
             <linearGradient id="body-gradient32" x1="0" x2="0" y1="0" y2="1">
@@ -26,10 +26,10 @@
         <g transform="translate(10 11)">
             <rect color="#787878" fill="#787878" stop-color="#787878" x="1" y="6" width="10" height="6" />
             <path stroke-width="1px" color="#787878" fill="none" stop-color="#787878" stroke="#787878" d="
-                M 3.5 6 v -3
+                M 3.5 7 v -4
                 q 0 -2.5 2.5 -2.5
                 q 2.5 0 2.5 2.5
-                v 3
+                v 4
             " />
         </g>
     </g>

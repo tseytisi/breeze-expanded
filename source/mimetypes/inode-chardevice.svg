@@ -16,13 +16,12 @@
             stop-color: currentColor;
         }
         .symbolic {
-            /* Breeze dark */
             color: #eeeeee;
-            /* Breeze light */
-            /* color: #747474;  */
             fill: none;
             stroke: currentColor;
             stroke-width: 1px;
+            /* variant: light */
+            /* color: #747474;  */
         }
         .highlight {
             color: #ffffff;

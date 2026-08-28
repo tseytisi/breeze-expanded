@@ -1,16 +1,16 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [6EA3B9CA378C725860F71B009EF4F0E5D5321C3D51315EDB86654164D59CB9E7] -->
+    <!-- Exported on 2026-08-28 20:21:17 | Source file hash: [9EE1509B90109524E06EEA95E1870A9338B2BD103E4E583DB0CC69995849CCC6] -->
     <g>
         <!-- 16x16 -->
-        <g color="#522fd3" fill="#522fd3" transform="translate(3 3)">
-            <path stroke-width="1px" color="#522fd3" fill="none" stroke="#522fd3" d="
+        <g color="#522fd3" transform="translate(3 3)">
+            <path stroke-width="1px" fill="none" color="#522fd3" stroke="#522fd3" d="
                 M 4.5 3.5 l -4.5 4.5 l 4.5 4.5
             " />
-            <path color="#522fd3" fill="#522fd3" d="
+            <path fill="#522fd3" color="#522fd3" d="
                 M 13.917 3 l -6 10 h 1.166 l 6 -10 z
             " />
-            <ellipse stroke-width="1px" color="#522fd3" fill="none" stroke="#522fd3" cx="9.25" cy="4.75" rx="1.25" ry="1.25" />
-            <ellipse stroke-width="1px" color="#522fd3" fill="none" stroke="#522fd3" cx="13.75" cy="11.25" rx="1.25" ry="1.25" />
+            <ellipse stroke-width="1px" fill="none" color="#522fd3" stroke="#522fd3" cx="9.25" cy="4.75" rx="1.25" ry="1.25" />
+            <ellipse stroke-width="1px" fill="none" color="#522fd3" stroke="#522fd3" cx="13.75" cy="11.25" rx="1.25" ry="1.25" />
         </g>
     </g>
 </svg>

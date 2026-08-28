@@ -20,14 +20,14 @@
         }
         .highlight {
             color: #ffffff;
-            stop-color: #ffffff;
+            stop-color: currentColor;
             opacity: .4;
             stop-opacity: .4;
             fill: currentColor;
         }
         .shadow {
             color: #000000;
-            stop-color: #000000;
+            stop-color: currentColor;
             opacity: .15;
             stop-opacity: .15;
             fill: currentColor;

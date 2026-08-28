@@ -21,14 +21,14 @@
         }
         .top-bar {
             color: #ffffff;
-            stop-color: #ffffff;
+            stop-color: currentColor;
             opacity: .3;
             stop-opacity: .3;
             fill: currentColor;
         }
         .bottom-bar {
             color: #000000;
-            stop-color: #000000;
+            stop-color: currentColor;
             opacity: .15;
             stop-opacity: .15;
             fill: currentColor;

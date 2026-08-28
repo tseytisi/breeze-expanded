@@ -1,15 +1,16 @@
 <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <style type="text/css">
-        .coloursymbol {
-            color: #d5cdf5;
-            stop-color: currentColor;
+        .fill {
             fill: currentColor;
         }
-        .coloursymbol-stroke {
-            color: #d5cdf5;
+        .stroke {
             fill: none;
             stroke: currentColor;
             stroke-width: 1px;
+        }
+        .coloursymbol {
+            color: #d5cdf5;
+            stop-color: currentColor;
         }
         .body-light {
             color: #6546d8;
@@ -21,24 +22,17 @@
         }
         .symbolic {
             color: #522fd3;
-            fill: currentColor;
-        }
-        .symbolic-stroke {
-            color: #522fd3;
-            fill: none;
-            stroke: currentColor;
-            stroke-width: 1px;
         }
         .highlight {
             color: #ffffff;
-            stop-color: #ffffff;
+            stop-color: currentColor;
             opacity: .3;
             stop-opacity: .3;
             fill: currentColor;
         }
         .shadow {
             color: #000000;
-            stop-color: #000000;
+            stop-color: currentColor;
             opacity: .25;
             stop-opacity: .25;
             fill: currentColor;
@@ -68,16 +62,16 @@
         </g>
         <!-- 22x22 -->
         <g transform="translate(22 22)">
-            <path class="coloursymbol-stroke" d="
+            <path class="coloursymbol stroke" d="
                 M 5.5 4.5 l -7 6.5 l 7 6.5
             " />
             <!-- Weird number is to correct the line width -->
             <!-- Manually calculated with cos and tan :) -->
-            <path class="coloursymbol" d="
+            <path class="coloursymbol fill" d="
                 M 18.924 4 l -8 14 h 1.152 l 8 -14 z
             " />
-            <ellipse class="coloursymbol-stroke" cx="12.75" cy="6.25" rx="1.75" ry="1.75" />
-            <ellipse class="coloursymbol-stroke" cx="18.25" cy="15.75" rx="1.75" ry="1.75" />
+            <ellipse class="coloursymbol stroke" cx="12.75" cy="6.25" rx="1.75" ry="1.75" />
+            <ellipse class="coloursymbol stroke" cx="18.25" cy="15.75" rx="1.75" ry="1.75" />
         </g>
     </symbol>
     <symbol id="icon32" viewBox="0 0 32 32">
@@ -104,40 +98,40 @@
         </g>
         <!-- 12x12 -->
         <g transform="translate(10 11)">
-            <path class="coloursymbol-stroke" d="
+            <path class="coloursymbol stroke" d="
                 M 3.5 2.5 l -3.5 3.5 l 3.5 3.5
             " />
-            <path class="coloursymbol" d="
+            <path class="coloursymbol fill" d="
                 M 10.911 2 l -5 8 h 1.179 l 5 -8 z
             " />
-            <ellipse class="coloursymbol-stroke" cx="7.25" cy="3.5" rx="1" ry="1" />
-            <ellipse class="coloursymbol-stroke" cx="10.75" cy="8.5" rx="1" ry="1" />
+            <ellipse class="coloursymbol stroke" cx="7.25" cy="3.5" rx="1" ry="1" />
+            <ellipse class="coloursymbol stroke" cx="10.75" cy="8.5" rx="1" ry="1" />
         </g>
     </symbol>
     <symbol id="icon22" viewBox="0 0 22 22">
         <!-- 16x16 -->
         <g class="symbolic" transform="translate(3 3)">
-            <path class="symbolic-stroke" d="
+            <path class="symbolic stroke" d="
                 M 4.5 3.5 l -4.5 4.5 l 4.5 4.5
             " />
-            <path class="symbolic" d="
+            <path class="symbolic fill" d="
                 M 13.917 3 l -6 10 h 1.166 l 6 -10 z
             " />
-            <ellipse class="symbolic-stroke" cx="9.25" cy="4.75" rx="1.25" ry="1.25" />
-            <ellipse class="symbolic-stroke" cx="13.75" cy="11.25" rx="1.25" ry="1.25" />
+            <ellipse class="symbolic stroke" cx="9.25" cy="4.75" rx="1.25" ry="1.25" />
+            <ellipse class="symbolic stroke" cx="13.75" cy="11.25" rx="1.25" ry="1.25" />
         </g>
     </symbol>
     <symbol id="icon16" viewBox="0 0 16 16">
         <!-- 12x12 -->
         <g transform="translate(2 2)">
-            <path class="symbolic-stroke" d="
+            <path class="symbolic stroke" d="
                 M 3.5 2.5 l -3.5 3.5 l 3.5 3.5
             " />
-            <path class="symbolic" d="
+            <path class="symbolic fill" d="
                 M 10.911 2 l -5 8 h 1.179 l 5 -8 z
             " />
-            <ellipse class="symbolic-stroke" cx="7.25" cy="3.5" rx="1" ry="1" />
-            <ellipse class="symbolic-stroke" cx="10.75" cy="8.5" rx="1" ry="1" />
+            <ellipse class="symbolic stroke" cx="7.25" cy="3.5" rx="1" ry="1" />
+            <ellipse class="symbolic stroke" cx="10.75" cy="8.5" rx="1" ry="1" />
         </g>
     </symbol>
     <symbol id="grid">

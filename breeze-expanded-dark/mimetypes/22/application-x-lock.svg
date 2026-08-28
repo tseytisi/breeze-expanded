@@ -1,14 +1,14 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Exported on 2026-08-28 14:51:49 | Source file hash: [831B28CB081F842A9590074F81FB97EE020571DD67B8394C218A0AC32DCBA456] -->
+    <!-- Exported on 2026-08-28 20:21:17 | Source file hash: [6D73A2492555009F9CFF4CD213F7A4975BC3FDF67B5DE5570677C7015A5433BD] -->
     <g>
         <!-- 16x16 -->
-        <g class="symbolic" transform="translate(3 3)">
-            <rect color="#eeeeee" fill="#eeeeee" x="1" y="8" width="14" height="8" />
-            <path stroke-width="1px" color="#eeeeee" fill="none" stroke="#eeeeee" d="
-                M 4.5 8 v -4
+        <g color="#eeeeee" transform="translate(3 3)">
+            <rect fill="#eeeeee" color="#eeeeee" x="1" y="8" width="14" height="8" />
+            <path stroke-width="1px" fill="none" color="#eeeeee" stroke="#eeeeee" d="
+                M 4.5 9 v -5
                 q 0 -3.5 3.5 -3.5
                 q 3.5 0 3.5 3.5
-                v 4
+                v 5
             " />
         </g>
     </g>

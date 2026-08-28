@@ -29,7 +29,7 @@ Differenciate different types of shell script (these do need to be manually assi
 ## Known issues
 I recently tried my theme on Ubuntu 24.04LTS (with KDE frontend) with Plasma 5 and saw that it struggles with icons that use the 'currentColor' directive in SVG files... which is every icon I've made. If the icons look a lot more black than you'd expect, that's probably the reason. The fix is replacing every 'currentColor' with the colour code of the current colour, usually defined in the class.
 
-The exporter has been updated to resolve currentColor values as build-time, so this issue should be solved. It has, however, not been tested yet.
+The exporter has been updated to resolve currentColor values at build-time, so this issue should be solved. It has however not been tested yet.
 
 ## New icons
 There's an ever-growing list of file types I want to create icons for. So I'll probably continue to update this repository... slowly. Though, if there's a specific file type you really want an icon for, you can always request it. No promises if and when I'll get to it though.
